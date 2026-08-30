@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Aug 30 14:11:53 CST 2026
+comment0.target=Persona
+comment1.params=nombre documentoIdentidad
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombre()
+numComments=3

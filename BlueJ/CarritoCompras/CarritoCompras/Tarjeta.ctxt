@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Aug 30 14:11:53 CST 2026
+comment0.target=Tarjeta
+comment1.params=numeroTarjeta banco
+comment1.target=Tarjeta(java.lang.String, Banco)
+comment2.target=boolean verificarTarjeta()
+numComments=3

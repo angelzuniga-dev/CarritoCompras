@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Aug 30 14:11:53 CST 2026
+comment0.target=Banco
+comment1.params=nombreBanco
+comment1.target=Banco(java.lang.String)
+comment2.target=boolean validarTransaccion()
+numComments=3

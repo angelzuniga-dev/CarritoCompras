@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Aug 30 14:11:54 CST 2026
+comment0.target=Carrito
+comment1.target=Carrito()
+comment2.params=producto
+comment2.target=void agregarProducto(Producto)
+numComments=3

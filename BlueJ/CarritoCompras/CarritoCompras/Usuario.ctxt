@@ -1,0 +1,6 @@
+#BlueJ class context
+#Sun Aug 30 14:11:53 CST 2026
+comment0.target=Usuario
+comment1.params=nombre documentoIdentidad username password
+comment1.target=Usuario(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Aug 30 14:11:54 CST 2026
+comment0.target=Cliente
+comment1.params=nombre documentoIdentidad
+comment1.target=Cliente(java.lang.String, java.lang.String)
+comment2.params=tarjeta
+comment2.target=void setTarjeta(Tarjeta)
+comment3.target=void comprar()
+numComments=4

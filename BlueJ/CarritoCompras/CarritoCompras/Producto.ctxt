@@ -1,0 +1,13 @@
+#BlueJ class context
+#Sun Aug 30 14:11:54 CST 2026
+comment0.target=Producto
+comment1.params=strNombre precio stock diasEspera
+comment1.target=Producto(java.lang.String, double, int, int)
+comment2.target=java.lang.String getStrNombre()
+comment3.target=int getStock()
+comment4.params=stock
+comment4.target=void setStock(int)
+comment5.target=int getDiasEspera()
+comment6.params=diasEspera
+comment6.target=void setDiasEspera(int)
+numComments=7

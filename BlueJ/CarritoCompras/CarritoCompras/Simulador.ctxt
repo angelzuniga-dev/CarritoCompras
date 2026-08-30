@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Aug 30 14:11:54 CST 2026
+comment0.target=Simulador
+comment1.params=producto
+comment1.target=void procesarDespacho(Producto)
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3
